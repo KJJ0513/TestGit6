@@ -42,5 +42,5 @@ staged 상태 : 관리 대상이면서 이력상태를 저장한 경우 (commit)
  git checkout master
 
 
-
+Q.테스트 작업중(커밋메세지 생성)
 
